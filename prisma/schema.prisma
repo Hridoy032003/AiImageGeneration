@@ -47,3 +47,4 @@ model Account {
 
   @@unique([provider, providerAccountId])
 }
+
